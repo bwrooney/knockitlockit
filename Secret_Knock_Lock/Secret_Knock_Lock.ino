@@ -6,9 +6,6 @@
 
 /* Secret Knock Lock Box
    Piezo element detects knock and opens if the lock if the sequence is correct
- *  * TODO:
-      Use Lock or Servo to open when correct
-      Reset() function for variables that cause WRONG
 */
 
 // Pins
